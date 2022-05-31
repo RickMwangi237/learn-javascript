@@ -17,3 +17,5 @@ if (sum <= 20) {
 }
 
 // 3. Log it out!
+console.log(isAlive)
+console.log(hasBlackJack)
