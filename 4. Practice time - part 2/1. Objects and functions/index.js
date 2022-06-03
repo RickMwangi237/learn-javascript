@@ -6,3 +6,9 @@
 // "Per is 35 years old and lives in Norway"
 
 // Call the logData() function to verify that it works
+
+let person = {
+    name: "Rick",
+    age: 28,
+    country: "Kenya"
+}
